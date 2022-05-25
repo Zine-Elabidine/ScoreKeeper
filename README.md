@@ -1,2 +1,2 @@
 # ScoreKeeper
-Web App to trach the score of a Ping-Pong game.
+Web App to track the score of a Ping-Pong game.
